@@ -1,0 +1,2 @@
+# cfg
+Game configuration files
